@@ -12,16 +12,16 @@
   }
 }
 .App-header {
-  background-color: #720B0B;
+  background-color: #720b0b;
   min-height: 40px;
   position: relative;
-  color: white; 
+  color: white;
 }
-.wrapper{
+.wrapper {
   display: flex;
   position: relative;
 }
-.sideNavigationComonent{
+.sideNavigationComonent {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -29,7 +29,7 @@
 .header1 {
   display: flex;
   flex-direction: row;
-  align-items:center;
+  align-items: center;
   justify-content: space-between;
   font-size: calc(1px + 2vmin);
 }
@@ -52,23 +52,23 @@
   padding-top: 2px;
   font-size: smaller;
 }
-.search-container{
+.search-container {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   padding-left: 10px;
   padding-top: 5px;
 }
-form{
+form {
   background: #fff;
   width: 500px;
   height: 35px;
   display: flex;
 }
-form input{
+form input {
   flex: 1;
 }
-form button{
+form button {
   background: #039b99;
   padding: 10px 40px;
   color: #fff;
@@ -77,7 +77,7 @@ form button{
   letter-spacing: 1px;
   cursor: pointer;
 }
-form button p{
+form button p {
   display: flex;
   align-items: center;
   flex-direction: row;
@@ -93,7 +93,7 @@ form button p{
   flex-direction: row;
   padding-left: 10px;
 }
-.newline l{
+.newline l {
   font-size: small;
   padding-left: 10px;
   font-weight: lighter;
@@ -101,7 +101,7 @@ form button p{
   display: inline;
   justify-content: space-between;
 }
-.btn-select{
+.btn-select {
   text-decoration: none;
   background-color: #039b99;
   outline: none;
@@ -111,7 +111,7 @@ form button p{
   border-radius: 5px;
   margin: 5px;
 }
-.sideNavigation .btn-select-sidenav{
+.sideNavigation .btn-select-sidenav {
   text-decoration: none;
   text-align: center;
   background-color: #039b99;
@@ -125,7 +125,7 @@ form button p{
   padding-bottom: 10px;
   color: white;
 }
-.sideNavigation .btn-select-sidenav l{
+.sideNavigation .btn-select-sidenav l {
   font-size: small;
   padding-left: 64px;
   font-weight: lighter;
@@ -141,17 +141,17 @@ form button p{
   margin-left: 10px;
   margin-bottom: 60px;
 }
-.sideNavigation .headerdiv{
+.sideNavigation .headerdiv {
   padding-top: 10px;
   text-align: center;
   padding-bottom: 10px;
-  background-color: #D9D9D9;
+  background-color: #d9d9d9;
   width: 200px;
   margin-top: 0px;
   margin-bottom: 15px;
 }
-.sideNavigation .text-div{
-  text-align:start;
+.sideNavigation .text-div {
+  text-align: start;
   font-size: medium;
   padding-left: 15px;
   padding-bottom: 10px;
@@ -180,25 +180,25 @@ form button p{
   flex-direction: column;
   padding: 10px;
 }
-.card-body h3 l{
-  color: #720B0B;
+.card-body h3 l {
+  color: #720b0b;
 }
-.card-body h3{
+.card-body h3 {
   color: black;
 }
-.card .h{
+.card .h {
   width: 100%;
   height: 10px;
   margin-bottom: 0%;
   padding: 0;
   border: 0 none;
-  background-color: #720B0B;
+  background-color: #720b0b;
 }
-.card-body h3 small{
+.card-body h3 small {
   font-weight: 400;
   font-size: small;
 }
-.newSVG{
+.newSVG {
   display: flex;
   align-items: center;
   flex-direction: row;
@@ -206,9 +206,9 @@ form button p{
   font-size: larger;
   color: #039b99;
 }
-.newSVG l{
- font-weight: 700;
- padding-left: 10px;
+.newSVG l {
+  font-weight: 700;
+  padding-left: 10px;
 }
 .card-body p {
   font-size: 13px;

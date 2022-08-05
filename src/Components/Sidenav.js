@@ -1,14 +1,14 @@
-import React from 'react'
-import SidenavComponent from './SidenavComponent'
+import React from "react";
+import SidenavComponent from "./SidenavComponent";
 
 function Sidenav() {
   return (
-    <div className='sideNavigationComonent'>
-      <SidenavComponent/>
-      <SidenavComponent/>
-      <SidenavComponent/>
+    <div className="sideNavigationComonent">
+      <SidenavComponent />
+      <SidenavComponent />
+      <SidenavComponent />
     </div>
-  )
+  );
 }
 
-export default Sidenav
+export default Sidenav;
